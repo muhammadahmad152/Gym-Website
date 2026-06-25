@@ -1,4 +1,4 @@
-# Apex Fitness Website
+# FlexoraFit Website
 
 A modern gym landing page built using HTML and CSS.
 
